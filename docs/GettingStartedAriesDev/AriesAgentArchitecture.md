@@ -1,6 +1,6 @@
 # Aries Cloud Agent Internals: Agent and Controller
 
-This section talks in particular about the architecture of this Aries cloud agent implementation. An instance of an Aries agent is actually made up of to two parts - the agent itself and a controller. 
+This section talks in particular about the architecture of this Aries cloud agent implementation. An instance of an Aries agent is actually made up of two parts - the agent itself and a controller. 
 
 ![ACA-Py Deployment Overview](../assets/deploymentModel-full.png "ACA-Py Deployment Overview")
 
